@@ -1,5 +1,5 @@
 # DutchAuction
-Dutch auction for NFT
+
 Seller of NFT deploys this contract setting a starting price for the NFT.
 
 Auction lasts for 7 days.
